@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioSteganographyThesisProject", "AudioSteganographyThesisProject\AudioSteganographyThesisProject.csproj", "{554FDB93-6659-4C27-A5CE-CFCFB5C733A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AudioSteganography", "AudioSteganography\AudioSteganography.vdproj", "{C0C1C3B4-394F-4C74-BEAE-1DD8B353B83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554FDB93-6659-4C27-A5CE-CFCFB5C733A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554FDB93-6659-4C27-A5CE-CFCFB5C733A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554FDB93-6659-4C27-A5CE-CFCFB5C733A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554FDB93-6659-4C27-A5CE-CFCFB5C733A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C1C3B4-394F-4C74-BEAE-1DD8B353B83E}.Debug|Any CPU.ActiveCfg = Debug
+		{C0C1C3B4-394F-4C74-BEAE-1DD8B353B83E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBB2000-16CE-4C16-B149-FF3891F8FAED}
+	EndGlobalSection
+EndGlobal
